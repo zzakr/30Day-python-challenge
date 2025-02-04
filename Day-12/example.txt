@@ -1,0 +1,11 @@
+Welcome to Python File Handling!
+This file contains sample text for reading and writing in Python.
+
+Here are some programming languages:
+- Python
+- JavaScript
+- Java
+- C++
+- Rust
+
+End of file.
